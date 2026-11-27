@@ -1,5 +1,8 @@
 # Experiment 11 -- Implementation of the Huffman Coding Algorithm
 
+### Name: Santhose Arockiaraj J
+### RegNo: 212224230248
+
 ## Aim
 
 To implement the Huffman Coding algorithm in Python by calculating
@@ -83,22 +86,8 @@ for char, code in huffman_codes.items():
 The program displays a table containing each distinct character in the
 input string and its corresponding Huffman binary code.
 
-For the input string `"huffman coding"`, the character frequencies are:
+<img width="364" height="480" alt="image" src="https://github.com/user-attachments/assets/c7c2c03b-bc7a-4df4-893c-4176cbf36ed2" />
 
-  Character     Frequency
-  ----------- -----------
-  h                     1
-  u                     1
-  f                     2
-  m                     1
-  a                     1
-  n                     2
-  (space)               1
-  c                     1
-  o                     1
-  d                     1
-  i                     1
-  g                     1
 
 The generated binary codes depend on the order in which nodes with equal
 frequencies are combined. The program prints the actual codes produced
