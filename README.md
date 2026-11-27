@@ -33,7 +33,7 @@ unique binary code for each character.
 
 ``` python
 # Step 1: Get the input string
-input_string = "huffman coding"  # Example input string
+input_string = "Santhose Arockiaraj J"  # Example input string
 
 # Step 2: Calculate frequency of each character in the input string
 frequency = {}
@@ -86,7 +86,8 @@ for char, code in huffman_codes.items():
 The program displays a table containing each distinct character in the
 input string and its corresponding Huffman binary code.
 
-<img width="364" height="480" alt="image" src="https://github.com/user-attachments/assets/c7c2c03b-bc7a-4df4-893c-4176cbf36ed2" />
+<img width="192" height="327" alt="image" src="https://github.com/user-attachments/assets/6471ece0-c485-4418-83c3-15bbec10ff75" />
+
 
 
 The generated binary codes depend on the order in which nodes with equal
